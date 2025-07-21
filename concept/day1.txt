@@ -1,0 +1,24 @@
+Deep learning divides into 3 major options:
+1. ANN (Artificial Neural Network) - Used for general pattern recognition, classification, and regression tasks on structured/tabular data.
+
+2. CNN (Convolutional Neural Network) - Used for image and video recognition, object detection, and processing grid-like data such as images.
+
+3. RNN (Recurrent Neural Network) - Used for sequential data such as time series, natural language processing, and speech recognition.
+
+4. RL (Reinforcement Learning) - Used for training agents to make sequences of decisions by rewarding desired behaviors, commonly applied in robotics, game playing, and autonomous systems.
+
+5. GAN (Generative Adversarial Network) - Used for generating new data samples that resemble a given dataset, commonly applied in image synthesis, data augmentation, and creative tasks such as art and music generation.
+
+
+
+## What is Generative AI :
+-> Generative AI generate new data based on training sample. Generative model can generate Image, Text, Audio, Videos etc. data as output.
+
+so Generative AI is very huge topics,
+- Generative image model
+- Generative language model ---> llm under this topic
+
+## Where Generative AI Exists
+- machine learning is the subset of Artificial intelligence
+- deep learning is the subset of machine learning
+- Generative AI is the subset of deep learning
