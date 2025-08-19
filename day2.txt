@@ -1,0 +1,1 @@
+Generative AI refers to artificial intelligence systems that can create new content, such as text, images, music, or code. These models learn patterns from large datasets and use them to generate outputs that resemble human-created data. Popular examples include GPT for text generation and DALL-E for image creation.
