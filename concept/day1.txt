@@ -22,3 +22,6 @@ so Generative AI is very huge topics,
 - machine learning is the subset of Artificial intelligence
 - deep learning is the subset of machine learning
 - Generative AI is the subset of deep learning
+
+
+i just test it today nothing else. why commit isn't performed yet
