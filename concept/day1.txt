@@ -24,4 +24,4 @@ so Generative AI is very huge topics,
 - Generative AI is the subset of deep learning
 
 
-i just test it today nothing else. why commit isn't performed yet
+i just test it today nothing else. why commit isn't performed yet....
